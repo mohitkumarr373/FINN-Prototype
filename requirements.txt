@@ -1,0 +1,8 @@
+fastapi==0.162.2
+uvicorn==0.54.0
+httpx[socks]==0.28.1
+beautifulsoup4==4.15.0
+pymupdf==1.26.6
+yfinance==1.8.0
+pytest==9.2.0
+scipy==1.18.1
